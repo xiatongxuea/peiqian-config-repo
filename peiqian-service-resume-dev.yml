@@ -1,4 +1,4 @@
 peiqian:
-  message: hello dog!
+  message: hello dog 100!
 mysql:
   url: 127.0.0.1
